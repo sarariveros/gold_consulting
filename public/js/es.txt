@@ -1,0 +1,95 @@
+﻿menu-1=>inicio
+menu-2=>nosotros
+menu-3=>servicios
+menu-4=>equipo
+menu-5=>proyectos
+menu-6=>clientes
+menu-7=>contacto
+menu-8=>visitanos
+
+cab-nosotros=>nosotros
+det-nosotros=>Somos una empresa consultora, dedicada a la prestacion de Servicios de Asesoria y Consultoria especializada en planificación, presupuesto y proyectos de inversión pública.
+cab-mision=>mision
+det-mision=>Ser una empresa consultora que brinde un servicio de calidad que promueva el desarrollo del país a través de asesoría en planificación, presupuesto y proyectos de inversión pública.
+cab-vision=>vision
+det-vision=>Ser la empresa consultora líder de la zona sur del Perú en brindar asesoría en planificación, presupuesto y proyectos de inversión pública a los gobiernos locales y regionales.
+
+cab-serv=>servicios
+det-serv=>Ofrecemos los siguientes servicios
+cab-serv-1=>Elaboración de Documento de Gestión en Planificación y Presupuesto
+det-serv-1=>Se elaboraran documentos de gestión necesarios para los gobiernos locales tales como: Planes Operativos, Planes Estratégicos, Planes de Desarrollo Concertado, y Presupuestos Participativos.
+cab-serv-2=>Elaboración de Perfiles de Proyectos
+det-serv-2=>Se elaborarán perfiles de proyectos públicos que puedan ser ejecutados tanto por entidades estatales como organismos no gubernamentales para el desarrollo de la población.
+cab-serv-3=>Elaboración de Documentos para realizar la Transición a la Ley SERVIR
+det-serv-3=>Se elaboraran documentos de gestión relacionadas al mapeo de puestos y mapeo de procesos para que las entidades gubernamentales (municipalidades puedan hacer el tránsito a la Ley SERVIR.
+cab-serv-4=>Dictado de Talleres de Capacitación
+det-serv-4=>Se realizarán talleres en gestión pública en temas de planificación, presupuesto, proyectos y gestión de procesos.
+cab-equipo=>Nuestro equipo
+det-equipo=>Nuestra empresa tiene entre sus socios a grandes profesionales
+est-equipo=>Estudios
+exp-equipo=>Experiencia
+bot-equipo=>.: Ver Mas :.
+
+cab-equipo-1=>Alex Quicaño Muñoz
+et-equipo-1=>Ingeniero Civil
+est-equipo-1=>Ingeniero Civil(UNSA -Arequipa). </br>Maestría en Economía - Drllo. Regional y Gestión Ambiental. </br>Doctorado en Ingeniería de Proyectos (UNSA-Arequipa)
+exp-equipo-1=>Ha sido residente y supervisor de diferentes proyectos de inversión pública en el sur del Perú.</br>Es experto en formulación y evaluación de Proyectos de Inversión Pública.
+
+cab-equipo-2=>Eliana Quispe Meza
+et-equipo-2=>Contadora Público Colegiada
+est-equipo-2=>Contadora Público Colegiada por la Universidad Nacional de San Agustín de Arequipa. Maestría  en Gestión Pública y Gobernabilidad por la Universidad Nacional de San Agustín de Arequipa.</br>
+exp-equipo-2=> Ha sido Contadora de las Municipalidades de Lloque, Chojata, Ubinas, Puquina y Matalaque.</br>Experta en los Sistemas Gubernamentales de Contabilidad y Tesorería.</br> Actualmente es Gerente de Presupuesto y Finanzas de la Municipalidad Distrital de Paucarpata.
+
+cab-equipo-3=>Arturo Huillca Muriel
+et-equipo-3=>Licenciado en Sociología
+est-equipo-3=>Licenciado en Sociología por la Universidad Nacional de San Agustín de Arequipa.</br>Bachiller en Finanzas por la Universidad Nacional de San Agustín de Arequipa. Diplomado en Sistemas Gubernamentales por la Universidad Nacional de San Agustín de Arequipa.</br>
+exp-equipo-3=>Ha formulado los Planes de Desarrollo Local Concertado de los distritos de Chiguata, Ubinas, Puquina y Paucarpata.</br>Es experto en Presupuesto Participativo.
+
+
+cab-equipo-4=>Renato Garrido Nina
+et-equipo-4=>Economista
+est-equipo-4=>Economista por la Universidad Nacional de San Agustín de Arequipa.</br>Estudios de Maestría en Gestión Pública por la Universidad Nacional de San Agustín de Arequipa.</br>
+exp-equipo-4=>Ha sido de Jefe de Abastecimientos, Administrador, Gerente de Planeamiento, Presupuesto y Racionalización, y Jefe de Proyectos y Estudios en la Municipalidad Distrital de Sachaca.</br>Es asesor de diversas municipalidades en el sur del Perú. Experto en  Presupuesto Público.
+
+
+cab-equipo-5=>Erick Coapaza Quispe
+et-equipo-5=>Ingeniero Industrial
+est-equipo-5=>Ing. Industrial por la Universidad Nacional de San Agustín de Arequipa.</br>Ha participado en los cursos de extensión universitaria de la Superintendencia </br> de Banca Seguros y AFP y del Organismo Regulador de la Inversión en Energía.</br>
+exp-equipo-5=>Ha realizado un Programa de Especialización y Desarrollo </br>en Comercio Internacional (UCSP).</br>Ha participado en diversos equipos técnicos para las actualizaciones de planes de Desarrollo Local Concertados,</br> Planes Estratégicos Institucionales y Planes Operativos Institucionales.</br>Actualmente viene asesorando a diversas Municipalidades </br> del sur del Perú en el transito al  régimen del Servicio Civil.
+
+cab-proyectos=>Proyectos
+det-proyectos=>La empresa esta alctualmente desarrollando proyectos </br>en diferentes distritos.
+
+men-pro-1=>Proyectos Agrícolas
+men-pro-2=>Proyectos Turísticos
+men-pro-3=>Talleres Plan de Desarrollo Local Concertado
+men-pro-4=>Proyecto Construccion de Puente
+men-pro-5=>Plan de Desarrollo Participativo
+men-pro-6=>Ley SERVIR
+
+cab-pro-1=>Proyecto Agrícola - Moquegua
+det-pro-1=>Visita técnica para evaluación de proyecto
+cab-pro-2=>Proyecto Turístico - Chiguata
+det-pro-2=>Visita del equipo técnico
+cab-pro-3=>Plan de Desarrollo Local Concertado - Ubinas | Paucarpata
+det-pro-3=>Centro poblado Camata (ubinas)
+det-pro-3b=>Centro poblado Tassa (ubinas)
+cab-pro-4=>Proyecto Puente Peatonal- Paucarpata
+det-pro-4=>Visita técnica para formulación de proyectos </br> con el objetivo de la construcción de un puente peatonal
+cab-pro-5=>Plan de Desarrollo Participativo
+det-pro-5=>Talleres para la elaboración del Plan de Desarrollo Participativo</br>Distrito de Ubinas Sacohaya
+cab-pro-6=>Ley SERVIR - Ubinas
+det-pro-6=>Talleres de capacitación para el transito al servicio civil
+
+cab-cli=>Clientes
+det-cli=>Nuestros socios han trabajado con las siguientes municipalidades.
+
+cab-cont=>Contactanos
+det-cont=>Estaremos gustosos de responderte
+bot-cont=>ENVIAR MENSAJE
+inf-cont-1=>Correo
+inf-cont-2=>Teléfonos
+inf-cont-3=>Dirección
+
+cab-vis=>Visitanos
+det-vis=>Ubica nuestras instalaciones </br> donde marca el icono de nuestra empresa .

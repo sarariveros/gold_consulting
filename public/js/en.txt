@@ -1,0 +1,99 @@
+﻿menu-1=>home
+menu-2=>about
+menu-3=>services
+menu-4=>team
+menu-5=>projects
+menu-6=>clients
+menu-7=>contact
+menu-8=>visit
+
+cab-nosotros=>About us
+det-nosotros=>Huillco Consulting is a consulting company which works bringing advisory services related to planning, budget, human resources and public projects.
+cab-mision=>Mission
+det-mision=>Our mission is to be a consultory company that provides to small and midsized municipalities an integral advisory solutions and expertise in planning, budget and public projects , promoting the develpment of the country.
+cab-vision=>Vision
+det-vision=>To be the best known, hands-on accounting, business advisory and management consulting firm for small and midsized municipalities in the South of Peru.
+
+cab-serv=>Services
+det-serv=>We offer the next services
+cab-serv-1=>Management Document about Strategic Planning and Budget
+det-serv-1=>We make several documents for the local goverment such as: operating plans, strategic plans, and others.
+cab-serv-2=>Public Projects
+det-serv-2=>Our company makes public projects which can be executed by gubernamental organization o NGOs.
+cab-serv-3=>Making Documents to improve the Personnel Management
+det-serv-3=>We improve the management in local governments through improving their human resources process according the new laws in the country.
+cab-serv-4=>Training Workshops Delivery
+det-serv-4=>Our company trains people who work in public institution in topic related to planning, human resources, budget, projects and procces management.
+
+cab-equipo=>Our team
+det-equipo=>Our company has good profesionals in their fields of study.
+
+est-equipo=>Academic Education
+exp-equipo=>Work Experience
+bot-equipo=>.: More :.
+
+
+cab-equipo-1=>Alex Quicaño Muñoz
+et-equipo-1=>Civil Engineer
+est-equipo-1=>Civil engineer (UNSA – Arequipa). </br> Master in Economics – Regional Development and Ambiental Management. </br>Ph D. in Project Engineering
+exp-equipo-1=>He has been supervisor in serveral public projects in the south of Peru. </br>He is expert in formulating and evaluating public projects
+
+cab-equipo-2=>Eliana Quispe Meza
+et-equipo-2=>Accountant
+est-equipo-2=>Accountant (UNSA – Arequipa) </br>Master in Public Management
+exp-equipo-2=>She has worked in several local goverment such as Lloque, Chojata, Ubinas, Puquina and Matalaque.</br> Currently she is the manager of finance in the municipality of Paucarpata.
+
+cab-equipo-3=>Arturo Huillca Muriel
+et-equipo-3=>Sociologist and profesional in finance
+est-equipo-3=>Sociologist and profesional in finance (UNSA - Arequipa).</br>He has also a diploma in Gubernamental Systems.
+exp-equipo-3=>He has formulated strategic and operational projects in the regions of Chiguata, Ubinas, Puquina and Paucarpata.</br> He is expert in Finance.
+
+
+cab-equipo-4=>Renato Garrido Nina
+et-equipo-4=>Economist
+est-equipo-4=>Economist (UNSA-Arequipa) </br>Master in Public Management (UNSA-Arequipa)
+exp-equipo-4=>He has worked in different fields as Supply Area´s Chief,</br> Business Manager, Planning, Budgets and Rationalization Manager </br>and Projects Chief in Sachaca Municipality.</br> Nowadays, he is a budget counsellor for different municipalities in the South of Peru.
+
+
+cab-equipo-5=>Erick Coapaza Quispe
+et-equipo-5=>Industrial Engineer
+est-equipo-5=>Industrial Engineer (UNSA-Arequipa)</br> Major in International Commerce (UCSP-Arequipa)</br> More courses in SBS, AFP y Osinergnim.
+exp-equipo-5=>He has participated in different technical teams </br>in order to update PDLC (Concerted Development Plans), </br>Strategic Plans y and Operation Plans for Public entities.</br> At present he has been advising different municipalities</br> to make the transition to the new regimen of SERVIR.
+
+
+cab-proyectos=>Projects
+det-proyectos=>Until now our company has been working in distinct projects for different regions.
+
+men-pro-1=>Farming Projects
+men-pro-2=>Touristic projects
+men-pro-3=>PDLC (Concerted Local Development Plan)
+men-pro-4=>Bridge Project
+men-pro-5=>Workshops for Participating Development Plan
+men-pro-6=>SERVIR Law
+
+cab-pro-1=>Farming Projects - Moquegua
+det-pro-1=>Technical visit for project evaluation
+cab-pro-2=>Touristic project - Chiguata
+det-pro-2=>Technical visit for project evaluation
+cab-pro-3=>PDLC (Concerted Local Development Plan) - Ubinas | Paucarpata
+det-pro-3=>Camata Town (Ubinas)
+det-pro-3b=>Tassa Town (Ubinas)
+cab-pro-4=>Bridge Project- Paucarpata
+det-pro-4=>Technical visit for project evaluation </br> with the objective to build a bridge
+cab-pro-5=>Workshops for Participating Development Plan
+det-pro-5=>Workshops to create Participating Development Plan</br> Sacohaya Town - Ubinas
+cab-pro-6=>SERVIR Law - Ubinas
+det-pro-6=>Training workshops for transit to civil service
+
+cab-cli=>Clients
+det-cli=>Our partners have worked with the following municipalities
+
+cab-cont=>Contact us
+det-cont=>We will be glad to answer you
+bot-cont=>SEND MESSAGE
+inf-cont-1=>Mail
+inf-cont-2=>Phone
+inf-cont-3=>Address
+
+cab-vis=>Visit us
+det-vis=>Locate our facility where the company’s icon appears
