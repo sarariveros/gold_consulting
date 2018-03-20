@@ -37,6 +37,7 @@
     <link href="css/sweetalert2.css" rel="stylesheet">
     <link href="css/normalize.css" rel="stylesheet" >
     <link href="css/animate.css" rel="stylesheet">
+    <link href="css/botoneras.css" rel="stylesheet">
 
     <!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
     <style media="screen">
@@ -55,7 +56,17 @@
       <div class="loader-section section-right"></div>
 
     </div>
+    
+    <div class="botonera">
+    <input id="customBox" class="customBox" type="checkbox" />
+    <label for="customBox"></label>
 
+      <a href="https://api.whatsapp.com/send?phone=51937580007" class="one fa fa-whatsapp" id="icono_whatsapp"></a>
+
+      <a href="https://m.me/GonzaloCentenoZapata" class="two fa fa-facebook-square" id="icono_facebook"></a>
+ 
+      <a href="https://m.me/GonzaloCentenoZapata" class="three fa fa-facebook-square" id="icono_facebook"></a>
+    </div>
 
 
   <!-- END PRELOADER -->
@@ -1061,7 +1072,7 @@
 
     </script>
     <script src="js/agency.js"></script>
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtVYldr8FUedX6VrR7RslSfkCXzgLU0A0"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWwceLDv44reLGFPrUrsBF-dvhv93T45s"></script>
     <script>
       google.maps.event.addDomListener(window, 'load', init);
 
@@ -1088,11 +1099,11 @@
           var map = new google.maps.Map(mapElement, mapOptions);
 
           // Let's also add a marker while we're at it
-          var image = 'img/logos/logo.png';
+          var image = 'img/logo_nuevo.jpg';
           var marker = new google.maps.Marker({
-              position: new google.maps.LatLng(-16.432120, -71.514573),
+              position: new google.maps.LatLng(-16.421051, -71.507363),
               map: map,
-              title:"HUILLCO CONSULTING",
+              title:"GOLD CONSULTING",
               icon: image
           });
 
@@ -1100,7 +1111,7 @@
 
 
           var popup = new google.maps.InfoWindow({
-            content: '<h2><i class="fa fa-map-marker"></i>  Urb. La Alborada I-5 J.L.B y Rivero</h2><h4><i class="fa fa-envelope-o"></i>  contactanos@huillco.com</h4><h4><i class="fa fa-phone"></i>  954 477 734 / 962 749 714 / 943 585 498</h4>'
+            content: '<h2><i class="fa fa-map-marker"></i>  Urb. La Alborada I-5 J.L.B y Rivero</h2>'
             , position: map.getCenter()
           });
 

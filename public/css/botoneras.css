@@ -1,0 +1,103 @@
+body {
+  --l: 1.8em;
+}
+.customBox {
+  display: none;
+}
+
+.customBox + label {
+  cursor: pointer;
+  position: absolute;
+  right: 1em; bottom: 1em;
+  background-color: tomato;
+  height: var(--l); width: var(--l);
+  border-radius: 50%;
+  z-index: 2;
+}
+
+.customBox + label:before, .customBox + label:after {
+  position: absolute;
+  content: '';
+  height: calc(var(--l) / 2 );
+  width: .25em;
+  background-color: #fff;
+  top: 0; bottom: 0; left: 0; right: 0; margin: auto;
+  border-radius: .5em;
+  transition: all .25s;
+}
+
+.customBox + label:before {
+  height: calc(var(--l) / 2 );
+  width: .25em;
+ }
+
+.customBox + label:after {
+  width: calc(var(--l) / 2 );
+  height: .25em;
+ }
+
+.customBox:checked + label:before { transform: rotatez(-45deg); }
+
+.customBox:checked + label:after { transform: rotatez(-45deg); }
+
+.one, .two, .three {
+  cursor: pointer;
+  position: absolute;
+  right: 1em; bottom: 1em;
+  padding: 1em;
+  width: 1em; height: 1em;
+  border-radius: 50%;
+  opacity: 0;
+  z-index: 1;
+  transform: rotateZ(90deg);
+  font-size: 1em;
+  color: #fff;
+  transition-property: all;
+  transition-duration: .35s;
+  transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+.customBox:checked ~ .one, .customBox:checked ~ .two, .customBox:checked ~ .three  {
+  opacity: 1;
+}
+
+.customBox:checked ~ .one {
+  background-color: green;
+  transform: translateX(3em);
+}
+
+.customBox:checked ~ .two {
+  background-color: slateblue;
+  transform: translateX(2.2em) translateY(-2.2em);
+  transition-delay: .1s;
+}
+
+.customBox:checked ~ .three {
+  background-color: mediumorchid;
+  transform: translateY(-3em);
+  transition-delay: .2s;
+}
+
+.customBox:checked ~.one:hover, .customBox:checked ~ .two:hover, .customBox:checked ~ .three:hover {
+  opacity: .9;
+}
+
+.botonera{
+    position: fixed;
+    bottom: 5px;
+    left: 85px;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    cursor: pointer;
+    z-index: 100;
+    font-size: 50px;
+}
