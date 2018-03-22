@@ -242,5 +242,8 @@ $(".rotate").textrotator({
 	separator: "|",
 	speed: 5800
 });
+$(window).on('load', function() {
+  $('#preloader').delay(500).fadeOut('slow',function(){$(this).remove();});
+});
 
 })(jQuery); // End of use strict
